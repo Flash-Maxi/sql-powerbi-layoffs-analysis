@@ -36,4 +36,4 @@ The aim of the project was to convert raw data into a clean, structured, and ana
 The project improved the quality and consistency of the layoffs dataset and helped uncover patterns in layoffs across companies, countries, and time.
 
 ## Author
-Your Name
+Rishi Raj
