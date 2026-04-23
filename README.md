@@ -32,6 +32,14 @@ The aim of the project was to convert raw data into a clean, structured, and ana
 - `layoffs_eda.sql` → SQL queries used for exploratory data analysis
 - `insights.md` → Key observations from the analysis
 
+## Dataset
+The dataset used in this project contains information about layoffs across different companies, industries, and locations from 2020 to 2023.
+
+- File: `data/layoffs_raw.csv`
+- Contains details such as company, location, industry, total layoffs, percentage laid off, date, and funding raised.
+
+Note: This dataset is used for educational and analysis purposes.
+
 ## Outcome
 The project improved the quality and consistency of the layoffs dataset and helped uncover patterns in layoffs across companies, countries, and time.
 
