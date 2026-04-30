@@ -14,6 +14,14 @@ The goal was to convert raw, inconsistent data into a structured format and deri
 
 ---
 
+## 🚀 Project Highlights
+- End-to-end data analysis project (SQL + Power BI)
+- Cleaned real-world layoffs dataset (2020–2023)
+- Built interactive dashboard with KPI metrics and trend analysis
+- Identified key patterns across companies, countries, and time
+
+---
+
 ## 🛠️ Tools & Technologies
 
 * MySQL
