@@ -40,6 +40,19 @@ The dataset used in this project contains information about layoffs across diffe
 
 Note: This dataset is used for educational and analysis purposes.
 
+## Power BI Dashboard
+
+The cleaned dataset was visualized using Power BI to create an interactive dashboard.
+
+### Dashboard Features:
+- KPI cards (Total layoffs, Top country, Top company)
+- Trend analysis over time (2020–2023)
+- Country-wise layoffs comparison
+- Company-wise layoffs comparison
+
+### Dashboard Preview:
+![Dashboard](image/dashboard_screenshot.png)
+
 ## Outcome
 The project improved the quality and consistency of the layoffs dataset and helped uncover patterns in layoffs across companies, countries, and time.
 
