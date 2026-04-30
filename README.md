@@ -71,7 +71,7 @@ The cleaned dataset was visualized using Power BI to create an interactive and i
 
 ### 🖼️ Dashboard Preview:
 
-![Dashboard](images/dashboard_screenshot.png)
+![Dashboard](image/dashboard_screenshot.png)
 
 ---
 
@@ -90,7 +90,7 @@ sql-powerbi-layoffs-analysis/
 ├── powerbi/
 │   └── layoffs_dashboard.pbix
 │
-├── images/
+├── image/
 │   └── dashboard_screenshot.png
 │
 ├── README.md
